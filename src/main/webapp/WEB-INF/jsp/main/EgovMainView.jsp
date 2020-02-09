@@ -103,7 +103,7 @@
                                 </li>
                             </c:forEach>
                         <c:if test="${fn:length(result) == 0}">
-                            <li>등록된 갤러리가 없습니다.</li>
+                            <li>등록된 갤러리가 없습니다111.</li>
                         </c:if>
     					</ul>
     				</div>
